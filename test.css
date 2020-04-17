@@ -1,0 +1,104 @@
+body {
+    background-image: url('dark_wood.png');
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+a {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+div{
+    background-color: #8e41d5;
+    color: white;
+}
+
+h3 {
+    color: #ffbc00;
+    font-family: "Passion One", cursive;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+p {
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+
+#Header {
+    border: 8px black solid;
+    width: 500px;
+    
+    /* Centered the item */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion One", cursive;
+    color: #ffbc00;
+    font-weight: bold;
+}
+
+#LeftNav {border: 8px black solid;
+    width: 400px;
+
+    /* Centered the item */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    float: left;
+    padding-bottom: 10px;
+}
+
+#Content{border:8px black solid;
+    width: 700px;
+
+    /* Centered the item */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 8px;}
+
+#Footer{ border: 8px black solid;
+    
+    /* Centered the item */
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    #bow {
+        color: #ffbc00;
+    }
+
+    /* Play1 */
+    h1 {
+        text-shadow: 2px 2px;
+      }
+    /* Play2 */
+    img {
+        border-radius: 50%;
+    }
+    /* Play3 */
+    #Header {
+        background-image: linear-gradient(purple, violet)
+    }
+    /* Play4 */
+    p {
+        column-count: 2;
+    }
+    /* Play5 */
+    #Content {
+        outline-style: dotted;
+        outline-color: red;
+    }
