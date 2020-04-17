@@ -1,0 +1,26 @@
+/* newbie1 */
+p1{font-size: small}
+p2{font-size: x-large}
+
+/* newbie2 */
+.newbie2{height: 50px; width: 50px;}
+
+/* newbie3 */
+table, th, td {border: 1px solid black;}
+
+/* apprentice1 */
+.app1{height: 300px; width: 300px;}
+.Minions{position: relative; text-align: center;}
+.centeredtext{position: absolute; top: 50%; left: 50%; font-size: x-large; transform: translate(-50%, -50%);}
+
+/* apprentice2 */
+.swan{margin: 20px; height:200px; }
+
+/* apprentice3 */
+p3{border-style: dotted; border-color: salmon; font-size: x-large; }
+
+/* master2 */
+.zoo{float: right; height: 100px;}
+
+/* master3 */
+.rounded{border: 2px solid violet; border-radius: 20px}
