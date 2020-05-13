@@ -1,0 +1,16 @@
+body {background-image: url(geometric_leaves.png)
+}
+h2 {font-size: xx-large; font-family: Passion One; color: blueviolet; text-align: center; }
+
+img {
+    width: 300px; position: relative; left: 40%;
+}
+
+legend {
+    color: blueviolet; font-size: x-large;
+}
+p{color: blueviolet; font-size: large;
+
+}
+
+p1 {font-size: large;}
